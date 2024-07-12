@@ -1,6 +1,6 @@
 # Cursors decorated with Vocaloids!!
 * for Windows
-* and really cute
+  * and really cute
 
 * (I had downloaded these datas legally from niconico or somewhere then forgot the source...)
 
